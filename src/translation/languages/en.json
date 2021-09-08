@@ -1,0 +1,11 @@
+{
+  "APP_NAME": "Case",
+  "LANGUAGE_DK": "Dansk",
+  "LANGUAGE_EN": "English",
+  "BUTTON_LABEL_SEARCH": "Search",
+  "INPUT_LABEL_NAME": "Name",
+  "USER_INFO_GENDER_MALE": "Male",
+  "USER_INFO_GENDER_FEMALE": "Female",
+  "USER_INFO_STATUS_ACTIVE": "Active",
+  "USER_INFO_STATUS_INACTIVE": "Inactive"
+}

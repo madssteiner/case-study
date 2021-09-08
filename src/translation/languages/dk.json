@@ -1,0 +1,11 @@
+{
+  "APP_NAME": "Opgave",
+  "LANGUAGE_DK": "Dansk",
+  "LANGUAGE_EN": "English",
+  "BUTTON_LABEL_SEARCH": "Søg",
+  "INPUT_LABEL_NAME": "Navn",
+  "USER_INFO_GENDER_MALE": "Mand",
+  "USER_INFO_GENDER_FEMALE": "Kvinde",
+  "USER_INFO_STATUS_ACTIVE": "Aktiv",
+  "USER_INFO_STATUS_INACTIVE": "Ikke Aktiv"
+}
